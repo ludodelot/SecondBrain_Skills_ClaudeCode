@@ -29,3 +29,4 @@ Esta carpeta se mantiene siempre reflejada (push) en el repo público
 
 ## Aplicado ya en
 - [ludodelot.github.io](https://github.com/ludodelot/ludodelot.github.io) — se usó la skill `frontend-design` (oficial) para guiar mejoras de diseño (dark mode toggle real, animación de entrada única, favicon, PDF export) sin caer en los defaults genéricos de IA.
+- 2026-09-08 (2ª iteración) — rediseño completo estilo **Apple "Liquid Glass"** (`backdrop-filter` blur+saturate en nav/hero/cards), nav flotante tipo pill, timeline vertical para experiencia, orbes decorativos en el hero. Investigación de la técnica en [[Web_Design_Skills_Catalogo|catálogo]] §7 (nuevo).
