@@ -19,6 +19,7 @@ Esta carpeta se mantiene siempre reflejada (push) en el repo público
 | --- | --- |
 | `Web_Design_Skills_Catalogo.md` | Investigación 2026-09-08: catálogo curado de skills de Claude Code para **mejorar el diseño de sitios web** — anti "AI slop" (Hallmark, avoid-ai-design), estilo Apple/HIG, animación (Three.js/GSAP/Framer Motion), marketplaces curados. Incluye cómo instalarlas y cuándo usar cada una. |
 | `Skills_Instaladas.md` | Registro de qué skills están instaladas en esta máquina (`~/.agents/skills/`), quién las publica, y en qué proyecto se aplicaron. |
+| `Deep_Research_Mejores_Webs_2026.md` | Investigación 2026-09-08 (2ª ronda, más profunda): **proceso** real de "Claude Code para diseñadores" (plan→dev server→screenshot loop→stacking de skills), catálogo de librerías de componentes mejor valoradas (shadcn/ui, Magic UI, Aceternity UI), librerías de animación (Motion, GSAP, AOS), y tendencias de diseño 2026 (bento grid, scrollytelling, sitios premiados en Awwwards/Web Design Awards). Incluye conclusión operativa para el próximo rediseño del CV. |
 
 ## Conceptos base
 
